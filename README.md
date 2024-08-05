@@ -1,1 +1,1 @@
-This is an example game repository
+This is an test game repository
